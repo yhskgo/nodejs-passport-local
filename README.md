@@ -1,2 +1,3 @@
 # nodejs-passport-local
-- nodejs authentication with passport from https://github.com/thebopshoobop/passport-local-basics
+- nodejs mongodb example
+- nodejs authentication with passport
